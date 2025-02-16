@@ -29,7 +29,7 @@
   },
   "engines": {
     "node": "22.x",
-    "npm": "10.x"
+    "npm": "11.x"
   },
   "strapi": {
     "uuid": "fc798431-3a1b-4a10-a83f-475bd573b683"
