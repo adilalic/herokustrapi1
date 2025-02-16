@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@strapi/design-system": "^1.19.0",
+    "@strapi/icons": "^1.5.0",
     "@strapi/plugin-cloud": "5.10.2",
     "@strapi/plugin-users-permissions": "5.10.2",
     "@strapi/strapi": "5.10.2",
