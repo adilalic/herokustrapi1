@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "friends",
+  "info": {
+    "singularName": "friend",
+    "pluralName": "friends",
+    "displayName": "Friend"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Adil": {
+      "type": "string",
+      "required": true,
+      "default": "Adil Ali"
+    }
+  }
+}
