@@ -5,27 +5,14 @@
   "description": "A Strapi application",
   "scripts": {
     "build": "strapi build",
-    "deploy": "strapi deploy",
     "develop": "strapi develop",
-    "start": "strapi start",
-    "strapi": "strapi"
+    "start": "strapi start"
   },
   "dependencies": {
-    "@strapi/design-system": "^1.19.0",
-    "@strapi/icons": "^1.5.0",
-    "@strapi/plugin-cloud": "5.10.2",
-    "@strapi/plugin-users-permissions": "5.10.2",
-    "@strapi/strapi": "5.10.2",
-    "better-sqlite3": "11.3.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "^5.2.0",
-    "styled-components": "^5.3.11"
+    "@strapi/strapi": "5.10.2"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
     "typescript": "^5"
   },
   "engines": {
